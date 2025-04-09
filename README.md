@@ -39,28 +39,10 @@
 ## 💼 Featured Projects
 
 | 🚀 Project | 📄 Description | 🧰 Tech Stack |
-|--------|-------------|------------|
+|-----------|---------------|---------------|
 | 🍽️ **Monkey Meal** (In Progress) | A sleek food delivery app with clean architecture, real-time tracking, and cart management. | `Flutter`, `Spring Boot`, `MySQL`, `Firebase` |
 | 🎵 **Rhythm Lofi** | A relaxing music player with vibe-based playlists and recommendations. | `Flutter`, `Spring Boot`, `REST APIs` |
 | 🏫 **Skill Training Portal** | Admin, Faculty, and Student dashboards with features like attendance, skill registration, feedback & more. | `React`, `Spring Boot`, `MySQL` |
-
----
-
-## 📜 Certifications
-
-- ✅ **Google Flutter Basics** – [Coursera](https://www.coursera.org/)
-- ✅ **Java Spring Boot Essentials** – [Great Learning]
-- ✅ **MySQL for Beginners** – [Udemy]
-- ✅ **React.js with Projects** – [YouTube Series / Udemy]
-
----
-
-## 💪 Soft Skills
-
-- 🌟 Excellent communicator
-- ⌛ Time-efficient & task-driven
-- 🤝 Team player with leadership experience in mini-projects
-- 🔄 Fast learner, quick adapter to new tech stacks
 
 ---
 
@@ -116,4 +98,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shadow310524&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<!-- GeeksforGeeks Profile Badge -->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/harishre60f7/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=geeksforgeeks" />
+  </a>
 </p>
