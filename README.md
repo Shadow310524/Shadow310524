@@ -91,7 +91,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/harishrenga2005/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35" alt="LeetCode" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/harishre60f7/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35" alt="GeeksforGeeks" />
