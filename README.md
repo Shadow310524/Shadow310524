@@ -89,7 +89,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harish2005-r/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="https://leetcode.com/u/harishrenga2005/"><img src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
-  <a href="https://www.geeksforgeeks.org/user/harishre60f7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" height="30" alt="GeeksforGeeks" /></a>
+  <a href="https://www.geeksforgeeks.org/user/harishre60f7/"><img src="https://i.imgur.com/IJcT7gD.png" height="30" alt="GeeksforGeeks" /></a>
   <a href="mailto:harishrenga2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.instagram.com/shadow__harish__"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
