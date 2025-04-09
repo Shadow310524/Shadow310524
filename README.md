@@ -88,19 +88,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harish2005-r/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/harishrenga2005/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/harishre60f7/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" alt="GeeksforGeeks" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35" alt="GeeksforGeeks" />
   </a>
   <a href="mailto:harishrenga2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/shadow__harish__">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
+  <a href="https://www.instagram.com/shadow__harish__/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
   </a>
 </p>
 
